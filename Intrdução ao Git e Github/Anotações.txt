@@ -1,0 +1,2 @@
+comandos:git clone, cd, git status
+         
